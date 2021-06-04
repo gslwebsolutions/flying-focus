@@ -1,6 +1,6 @@
 'use strict';
 
-var DURATION = 150;
+var DURATION = 250;
 
 var ringElem = null;
 var movingId = 0;
